@@ -1,0 +1,82 @@
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+	background-color: #ffd54f;
+	color: #333;
+}
+
+header {
+	background-color: #f4511e;
+	padding: 20px;
+	color: white;
+	text-align: center;
+}
+
+nav {
+	display: inline-block;
+}
+
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+nav li {
+	display: inline-block;
+	margin-right: 20px;
+}
+
+nav a {
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+nav a:hover {
+	color: #ffd54f;
+}
+
+main {
+	padding: 50px;
+}
+
+section {
+	margin-bottom: 50px;
+}
+
+h1, h2, h3 {
+	font-family: "Press Start 2P", cursive;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 4px;
+}
+
+h1 {
+	font-size: 60px;
+	margin-top: 0;
+}
+
+h2 {
+	font-size: 40px;
+	margin-bottom: 20px;
+}
+
+p {
+	font-size: 20px;
+	line-height: 1.5;
+}
+
+ul {
+	font-size: 20px;
+	line-height: 1.5;
+	margin-left: 30px;
+}
+
+footer {
+	background-color: #f4511e;
+	padding: 10px;
+	color: white;
+	text-align: center;
+}
